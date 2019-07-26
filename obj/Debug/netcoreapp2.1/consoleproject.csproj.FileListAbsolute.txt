@@ -1,0 +1,11 @@
+/Users/curtis.miller/consoleproject/bin/Debug/netcoreapp2.1/consoleproject.deps.json
+/Users/curtis.miller/consoleproject/bin/Debug/netcoreapp2.1/consoleproject.runtimeconfig.json
+/Users/curtis.miller/consoleproject/bin/Debug/netcoreapp2.1/consoleproject.runtimeconfig.dev.json
+/Users/curtis.miller/consoleproject/bin/Debug/netcoreapp2.1/consoleproject.dll
+/Users/curtis.miller/consoleproject/bin/Debug/netcoreapp2.1/consoleproject.pdb
+/Users/curtis.miller/consoleproject/obj/Debug/netcoreapp2.1/consoleproject.csprojAssemblyReference.cache
+/Users/curtis.miller/consoleproject/obj/Debug/netcoreapp2.1/consoleproject.csproj.CoreCompileInputs.cache
+/Users/curtis.miller/consoleproject/obj/Debug/netcoreapp2.1/consoleproject.AssemblyInfoInputs.cache
+/Users/curtis.miller/consoleproject/obj/Debug/netcoreapp2.1/consoleproject.AssemblyInfo.cs
+/Users/curtis.miller/consoleproject/obj/Debug/netcoreapp2.1/consoleproject.dll
+/Users/curtis.miller/consoleproject/obj/Debug/netcoreapp2.1/consoleproject.pdb

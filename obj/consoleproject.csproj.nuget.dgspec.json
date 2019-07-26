@@ -1,0 +1,57 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/curtis.miller/consoleproject/consoleproject.csproj": {}
+  },
+  "projects": {
+    "/Users/curtis.miller/consoleproject/consoleproject.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/curtis.miller/consoleproject/consoleproject.csproj",
+        "projectName": "consoleproject",
+        "projectPath": "/Users/curtis.miller/consoleproject/consoleproject.csproj",
+        "packagesPath": "/Users/curtis.miller/.nuget/packages/",
+        "outputPath": "/Users/curtis.miller/consoleproject/obj/",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "/Users/curtis.miller/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.1": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "target": "Package",
+              "version": "[2.1.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}
